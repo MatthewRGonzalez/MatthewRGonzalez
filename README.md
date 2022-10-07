@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Alt Text](https://media.tenor.com/0hjOGLFaQa0AAAAd/lofi-girl-lofi.gif)
+![image](https://img.freepik.com/premium-vector/watercolor-drawing-seamless-border-frame-banner-with-tropical-leaves-green-leaves-palm_252097-634.jpg?w=2000)
 
 
 <!--
