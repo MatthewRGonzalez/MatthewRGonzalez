@@ -1,9 +1,9 @@
 ### Hi there 👋
-![image](https://img.freepik.com/premium-vector/watercolor-drawing-seamless-border-frame-banner-with-tropical-leaves-green-leaves-palm_252097-634.jpg?w=2000)
 
 
 <!--
 **MatthewRGonzalez/MatthewRGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://img.freepik.com/premium-vector/watercolor-drawing-seamless-border-frame-banner-with-tropical-leaves-green-leaves-palm_252097-634.jpg?w=2000)
 
 Here are some ideas to get you started:
 
