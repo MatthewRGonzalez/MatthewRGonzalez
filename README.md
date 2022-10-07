@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Alt Text](https://media.tenor.com/0hjOGLFaQa0AAAAd/lofi-girl-lofi.gif)
+
 
 <!--
 **MatthewRGonzalez/MatthewRGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
